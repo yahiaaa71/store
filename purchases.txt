@@ -1,0 +1,2 @@
+[2025-06-23 17:10:00] Email: user@example.com - Product: Netflix Premium - 1 Month - Status: Pending Payment
+[2025-06-23 17:15:23] Email: user@example.com - Product: Snapchat Plus - 1 Month - Status: Delivered
